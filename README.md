@@ -164,7 +164,7 @@ Dashboard Name: supply_chain_dashboard.pbix
 ## 📌 Conclusion
 
 This project demonstrates how supply chain data can be analyzed using Python, MySQL, and Power BI to generate meaningful business insights.
-It showcases a complete end-to-end data analyst workflow and highlights how data-driven decisions can improve supply chain performance and business oper
+It showcases a complete end-to-end data analyst workflow and highlights how data-driven decisions can improve supply chain performance and business operations.
 
 
 
