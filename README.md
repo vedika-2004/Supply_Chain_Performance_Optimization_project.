@@ -1,7 +1,6 @@
 # 🚚 Supply Chain Performance Optimization
    A complete supply chain data analysis project built using Python, MySQL, and Power BI to understand sales performance, shipping efficiency, delivery delays, and overall supply chain operations.
 
-
 ## 🧩 Project Overview
    This project analyzes the **DataCo Global Supply Chain dataset** to understand how different components of the supply chain are performing and how businesses can improve operational efficiency using data. 
 
